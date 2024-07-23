@@ -6,6 +6,11 @@ const page = () => {
   return (
     <div>
       <LandingPage />
+      <AdBanner
+        dataAdSlot="f08c47fec0942fa0"
+        dataAdFormat="auto"
+        dataFullWidthResponsive={true}
+      />
     </div>
   );
 };
